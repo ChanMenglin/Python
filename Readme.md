@@ -2,6 +2,8 @@
 
 > 本笔记均基于 Python 3x
 
+* [Python语言程序设计](1%20python语言程序设计.md) 入门
+
 ---
 
 [Python]: https://www.python.org
@@ -16,6 +18,21 @@
 [术语对照表]: https://docs.python.org/zh-cn/3/glossary.html#term-argument
 [扩展和嵌入 Python 解释器]: https://docs.python.org/zh-cn/3/extending/index.html#extending-index
 [Python/C API 参考手册]: https://docs.python.org/zh-cn/3/c-api/index.html#c-api-index
+
+[零基础学Python语言CAP]: https://www.icourse163.org/course/0908BIT001CAP-1002058035?outvandor=zw_mooc_pclszykctj_
+[Python语言程序设计]: https://www.icourse163.org/course/BIT-268001?tid=1460270441
+
+推荐：
+
+[零基础学Python语言CAP] 推荐没有任何编程基础的朋友学习，本文档不包含此课程的内容（可能以后会补充😊）
+
+鸣谢：
+
+* [Python语言程序设计] 入门
+
+> 此文档总结于以下课程
+
+
 
 官网：[Python]
 
